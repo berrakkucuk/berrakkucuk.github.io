@@ -1,4 +1,3 @@
-# berrakkucuk.github.io
 <!DOCTYPE html>
 <html>
 <body>
